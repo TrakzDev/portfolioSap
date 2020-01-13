@@ -1,0 +1,70 @@
+.square {
+  background-image: url(../app/sprite.gif);
+  background-position: 0 -39px;
+  transition: none;
+  width: 16px;
+  height: 16px;
+  float: left;
+  line-height: 0;
+  font-size: 0;
+}
+
+.square.bombed {
+  background-position: -32px -39px;
+}
+
+.square.revailed {
+  background-position: -64px -39px;
+}
+
+.square.wrongflagged {
+  background-position: -48px -39px;
+}
+
+.square.flagged {
+  background-position: -16px -39px;
+}
+
+.square.questioned {
+  background-position: -80px -39px;
+}
+
+.square.clickQuestioned {
+  background-position: -96px -39px;
+}
+
+.square.open, .square.opened {
+  background-position: 0 -23px;
+}
+
+.square.open1 {
+  background-position: -16px -23px;
+}
+
+.square.open2 {
+  background-position: -32px -23px;
+}
+
+.square.open3 {
+  background-position: -48px -23px;
+}
+
+.square.open4 {
+  background-position: -64px -23px;
+}
+
+.square.open5 {
+  background-position: -80px -23px;
+}
+
+.square.open6 {
+  background-position: -96px -23px;
+}
+
+.square.open7 {
+  background-position: -112px -23px;
+}
+
+.square.open8 {
+  background-position: -128px -23px;
+}

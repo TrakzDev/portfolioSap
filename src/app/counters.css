@@ -1,0 +1,60 @@
+.сell {
+  background-image: url(../app/sprite.gif);
+  height: 23px;
+  width: 13px;
+  margin-top: 2px;
+
+}
+
+.leftCell {
+  float: left;
+}
+
+.rightCell {
+  float: right;
+}
+
+
+.number- {
+  background-position: -130px 0px;
+}
+
+.number0 {
+  background-position: 0px 0px;
+}
+
+.number1 {
+  background-position: -13px 0px;
+}
+
+.number2 {
+  background-position: -26px 0px;
+}
+
+.number3 {
+  background-position: -39px 0px;
+}
+
+.number4 {
+  background-position: -52px 0px;
+}
+
+.number5 {
+  background-position: -65px 0px;
+}
+
+.number6 {
+  background-position: -78px 0px;
+}
+
+.number7 {
+  background-position: -91px 0px;
+}
+
+.number8 {
+  background-position: -104px 0px;
+}
+
+.number9 {
+  background-position: -117px 0px;
+}

@@ -1,0 +1,26 @@
+.smile {
+  background-image: url(../app/sprite.gif);
+  background-position: 0 -55px;
+  transition: none;
+  width: 26px;
+  height: 26px;
+  line-height: 0;
+  font-size: 0;
+  margin: auto;
+}
+
+.smile.click {
+  background-position: -26px -55px;
+}
+
+.smile.oh {
+  background-position: -52px -55px;
+}
+
+.smile.loose {
+  background-position: -78px -55px;
+}
+
+.smile.win {
+  background-position: -104px -55px;
+}

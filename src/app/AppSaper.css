@@ -1,0 +1,19 @@
+.AppSaper {
+  height: 187px;
+  background: #ccc;
+  margin-left: 30px;
+  border: ridge 7px;
+}
+
+.gameHeader {
+  padding: 5px;
+}
+
+.borderAboveGameField {
+  border-top: ridge 7px;
+}
+
+.readMe {
+  float: left;
+  margin: 40px 0 0 -145px;
+}
